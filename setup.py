@@ -26,7 +26,7 @@ setup(
     install_requires=[
         'Django',
         'django-cms',
-        'django-forms-builder',
+        'django-forms-builder-08eins-custom',
     ],
     zip_safe=False
 )
